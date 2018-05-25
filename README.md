@@ -1,5 +1,7 @@
 # Lingvist Word Scraper
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ebe329d47dc547079038e86f28fe8734)](https://www.codacy.com/app/floscha/lingvist-word-scraper?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=floscha/lingvist-word-scraper&amp;utm_campaign=Badge_Grade)
+
 Extracts and saves all words a user has learned on Lingvist, including the following additional information:
 - The word's translation
 - When it was last practiced
