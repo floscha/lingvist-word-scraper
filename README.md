@@ -34,4 +34,4 @@ and enter your email address as well as the password for your account.
 Alternatively, you can also pass just your email address or both email and password as command line arguments to the script.
 The program will then run to retrieve your words.
 
-5. When the program is finished, you can find all your learned words in the _vacabulary.json_ file.
+5. When the program is finished, you can find all your learned words in the _vocabulary.json_ file.
